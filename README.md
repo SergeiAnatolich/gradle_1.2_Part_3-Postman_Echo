@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4gid8nwagk92bp7n?svg=true)](https://ci.appveyor.com/project/SergeiAnatolich/gradle-1-2-part-3-postman-echo)
